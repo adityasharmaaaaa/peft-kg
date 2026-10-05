@@ -13,7 +13,7 @@ A system that turns a small corpus of research papers on **parameter-efficient f
 * Optional: `S2_API_KEY` environment variable (free key from semanticscholar.org/product/api) for a higher Semantic Scholar rate limit.
 
 ```
-git clone <repo> && cd peft-kg      # nothing to pip install
+git clone https://github.com/adityasharmaaaaa/peft-kg.git && cd peft-kg      # nothing to pip install
 ```
 
 ## Quick start (offline, bundled data)
