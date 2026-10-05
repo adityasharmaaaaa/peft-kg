@@ -1,0 +1,66 @@
+id	short	year	title
+transformer	Transformer	2017	Attention Is All You Need
+ulmfit	ULMFiT	2018	Universal Language Model Fine-tuning for Text Classification
+bert	BERT	2018	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+glue	GLUE	2018	GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
+gpt2	GPT-2	2019	Language Models are Unsupervised Multitask Learners
+t5	T5	2019	Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+superglue	SuperGLUE	2019	SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems
+scaling_laws	Scaling laws	2020	Scaling Laws for Neural Language Models
+gpt3	GPT-3	2020	Language Models are Few-Shot Learners
+mmlu	MMLU	2020	Measuring Massive Multitask Language Understanding
+flan	FLAN	2021	Finetuned Language Models Are Zero-Shot Learners
+instructgpt	InstructGPT	2022	Training Language Models to Follow Instructions with Human Feedback
+flan_scaling	Flan-T5 scaling	2022	Scaling Instruction-Finetuned Language Models
+chinchilla	Chinchilla	2022	Training Compute-Optimal Large Language Models
+llama	LLaMA	2023	LLaMA: Open and Efficient Foundation Language Models
+llama2	Llama 2	2023	Llama 2: Open Foundation and Fine-Tuned Chat Models
+self_instruct	Self-Instruct	2022	Self-Instruct: Aligning Language Models with Self-Generated Instructions
+lima	LIMA	2023	LIMA: Less Is More for Alignment
+adapters	Adapters	2019	Parameter-Efficient Transfer Learning for NLP
+adapterfusion	AdapterFusion	2020	AdapterFusion: Non-Destructive Task Composition for Transfer Learning
+madx	MAD-X	2020	MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer
+intrinsic_dim	Intrinsic dimension	2020	Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning
+diff_pruning	Diff pruning	2020	Parameter-Efficient Transfer Learning with Diff Pruning
+prefix_tuning	Prefix-tuning	2021	Prefix-Tuning: Optimizing Continuous Prompts for Generation
+prompt_tuning	Prompt tuning	2021	The Power of Scale for Parameter-Efficient Prompt Tuning
+ptuning	P-tuning	2021	GPT Understands, Too
+ptuning_v2	P-tuning v2	2021	P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks
+bitfit	BitFit	2021	BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
+compacter	Compacter	2021	Compacter: Efficient Low-Rank Hypercomplex Adapter Layers
+lora	LoRA	2021	LoRA: Low-Rank Adaptation of Large Language Models
+unified_view	Unified view of PETL	2021	Towards a Unified View of Parameter-Efficient Transfer Learning
+unipelt	UniPELT	2021	UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning
+spot	SPoT	2021	SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer
+t_few	T-Few	2022	Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning
+delta_tuning	Delta tuning	2022	Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models
+adamix	AdaMix	2022	AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning
+dylora	DyLoRA	2022	DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation
+adalora	AdaLoRA	2023	Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning
+llama_adapter	LLaMA-Adapter	2023	LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention
+scaling_down	Scaling Down to Scale Up	2023	Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning
+peft_survey	PEFT survey (2024)	2024	Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey
+vera	VeRA	2023	VeRA: Vector-based Random Matrix Adaptation
+lora_fa	LoRA-FA	2023	LoRA-FA: Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning
+longlora	LongLoRA	2023	LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models
+lorahub	LoraHub	2023	LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
+loramoe	LoRAMoE	2023	LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin
+s_lora	S-LoRA	2023	S-LoRA: Serving Thousands of Concurrent LoRA Adapters
+relora	ReLoRA	2023	ReLoRA: High-Rank Training Through Low-Rank Updates
+galore	GaLore	2024	GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+dora	DoRA	2024	DoRA: Weight-Decomposed Low-Rank Adaptation
+lora_plus	LoRA+	2024	LoRA+: Efficient Low Rank Adaptation of Large Models
+pissa	PiSSA	2024	PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models
+lora_less_forgets	LoRA Learns Less, Forgets Less	2024	LoRA Learns Less and Forgets Less
+ewc	EWC	2016	Overcoming Catastrophic Forgetting in Neural Networks
+grad_checkpoint	Gradient checkpointing	2016	Training Deep Nets with Sublinear Memory Cost
+mixed_precision	Mixed precision	2017	Mixed Precision Training
+eightbit_optim	8-bit optimizers	2021	8-bit Optimizers via Block-wise Quantization
+llm_int8	LLM.int8()	2022	LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
+kbit_scaling	k-bit scaling laws	2022	The Case for 4-bit Precision: k-bit Inference Scaling Laws
+gptq	GPTQ	2022	GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
+awq	AWQ	2023	AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+qlora	QLoRA	2023	QLoRA: Efficient Finetuning of Quantized LLMs
+qa_lora	QA-LoRA	2023	QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
+loftq	LoftQ	2023	LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models
+task_arithmetic	Task arithmetic	2022	Editing Models with Task Arithmetic
